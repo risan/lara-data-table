@@ -9,5 +9,4 @@ return [
     'sorts_param' => 'sorts',
     'sort_by_param' => 'by',
     'sort_direction_param' => 'direction',
-    'multiple_sorts' => true,
 ];
